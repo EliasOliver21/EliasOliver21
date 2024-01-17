@@ -1,4 +1,4 @@
-<img width=100% src = "https://capsule-render.vercel.app/api?type=waving&height=200&color=800064&text=Elias%20Oliveira&section=header&textBg=false&fontAlign=50&fontAlignY=40&fontSize=30&animation=twinkling&descAlign=50)" />
+<img width=100% src = "https://capsule-render.vercel.app/api?type=waving&height=200&color=800064&text=Elias%20Oliveira&section=header&textBg=false&fontAlign=50&fontAlignY=40&fontColor=FFFFFF&fontSize=25&animation=twinkling&descAlign=50)" />
 <p align="center">Student Software Engineering - UnB</p>&nbsp;
 
 ## My Skills
